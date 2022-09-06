@@ -47,11 +47,11 @@
 # KiCad Layout
 *.pcb linguist-detectable=true
 *.pcb linguist-documentation=false
-*.pcb linguist-language=KiCad Layout
+*.pcb linguist-language=KiCad-Layout
 # KiCad Schematic
 *.sch linguist-detectable=true
 *.sch linguist-documentation=false
-*.sch linguist-language=KiCad Schematic
+*.sch linguist-language=KiCad-Schematic
 # SubRip subtitle file
 *.srt linguist-detectable=true
 *.srt linguist-documentation=false
@@ -173,6 +173,6 @@
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 5 (2022, Tuesday, September 6th at 2:16 pm PST)
+# File version: 6 (2022, Tuesday, September 6th at 2:18 pm PST)
 # Line count (including blank lines and compiler line): 179
 # End of script
